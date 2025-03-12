@@ -14,4 +14,4 @@ Keuntungan Jika Memiliki Autoscript Sendiri
 - Script Bisa Di Edit Dan Custom Sendiri
 - Script Bisa Disewakan Dengan Sistem Perizinan IP
 
-Promo Bulanan `800K Kuota Terbatas!`, Support All OS - CP Admin Gemilangkinasih
+Promo Bulanan `500K Kuota Terbatas!`, Support All OS - CP Admin Gemilangkinasih
